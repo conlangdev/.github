@@ -10,8 +10,7 @@ Inspired by tools like [Conworkshop](https://conworkshop.com) and [Lexique Pro](
 
 ## ⚓ Repositories
 ### conlang.dev
-* **[conlangdev](https://github.com/conlangdev/conlangdev)**: API written in Golang
-* **[conlangdev-webjs](https://github.com/conlangdev/conlangdev-webjs)**: Next.js app written in Typescript
+* **[conlangdev](https://github.com/conlangdev/conlangdev)**: the conlang.dev website, written in Python (using Django)
 
 ### Other tools
-Coming soon... watch this space! 👀
+* **[scago](https://github.com/conlangdev/scago)**: sound change applier written in Go
